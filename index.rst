@@ -9,6 +9,7 @@ Welcome to sphinx_story's documentation!
 Contents:
 
 .. toctree::
+   Chapter1
    :maxdepth: 2
 
 
