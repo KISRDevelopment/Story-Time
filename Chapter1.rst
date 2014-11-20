@@ -2,12 +2,8 @@
 Chapter 1
 #########
 
-
-Once upon a time i saw a frog.
-=======
 Once upon a time 
-Somebody ran away saying fast as I can
-I've got to go...
-
-there was Ghada and her cat 
+there was a cat named Ghada
+and she ran away very fast saying:
+"It's Thursday! I've got to go!"
 
